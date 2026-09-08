@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main className="bg-black text-white">
-      <section className="relative min-h-screen overflow-hidden">
+      <section className="relative min-h-[100svh] overflow-hidden md:min-h-screen">
         <Image
           src="/home/home_foto_01_horizontal.jpg"
           alt="Andrés Monsalve - Diseñador Gráfico"
