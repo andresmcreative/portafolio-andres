@@ -11,7 +11,7 @@ export default function Home() {
           fill
           priority
           unoptimized
-          className="object-cover object-[70%_center] md:object-right"
+          className="object-cover object-[75%_center] md:object-right"
         />
 
         <div className="absolute inset-0 bg-black/45" />
