@@ -17,7 +17,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/45" />
 
         {/* CONTENIDO PRINCIPAL */}
-      <div className="relative z-10 flex min-h-screen items-start pt-[48vh] px-6 md:items-center md:pt-10 md:px-12 lg:px-20">
+      <div className="relative z-10 flex min-h-[100svh] md:min-h-screen items-start pt-[48vh] px-6 md:items-center md:pt-10 md:px-12 lg:px-20">
           <div className="max-w-4xl">
 <h1 className="text-2xl font-semibold tracking-tight md:text-5xl lg:text-6xl">
   ANDRÉS MONSALVE
